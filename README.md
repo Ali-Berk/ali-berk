@@ -1,6 +1,6 @@
 <div align = "center">
 
-  <img src = "[https://github-readme-stats.vercel.app/api/top-langs](https://ali-berk-8wz9-ali-berks-projects-5ce136bf.vercel.app/)/?username=ali-berk&theme=vue-dark&show_icons=true&hide_border=true&layout=donut"> </img>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs(https://ali-berk-8wz9-ali-berks-projects-5ce136bf.vercel.app/)/?username=ali-berk&theme=vue-dark&show_icons=true&hide_border=true&layout=donut"> </img>
   
   <img src = "https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"></img>
   <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"></img>
