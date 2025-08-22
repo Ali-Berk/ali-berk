@@ -1,5 +1,4 @@
 <div align = "center">
-  <p>I'm a computer engineering student from Turkey.</p>
 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ali-berk&theme=vue-dark&show_icons=true&hide_border=true&layout=donut"> </img>
   
@@ -12,7 +11,4 @@
   <img src = "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"></img>
 
   
-</div>
-<!---
-signed by fanitonia (16.12.2023)
---->
+
