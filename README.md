@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-berk&theme=vue-dark&show_icons=true&hide_border=true&layout=donut"> </img>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Berk&theme=vue-dark&show_icons=true&hide_border=true&layout=donut"> </img>
 
   <br><br>
 
@@ -41,8 +41,8 @@
   <a href="https://github.com/Ali-Berk/MKU-Teknoloji-Dijital-Kostebek">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ali-berk&repo=MKU-Teknoloji-Dijital-Kostebek&theme=vue-dark&hide_border=true">
   </a>
-  <a href="https://github.com/ali-berk/arduino-dashboard">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ali-berk&repo=arduino-dashboard&theme=vue-dark&hide_border=true">
+  <a href="https://github.com/Ali-Berk/vue.js-edu-project">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=ali-berk&repo=vue.js-edu-project&theme=vue-dark&hide_border=true">
   </a>
 </div>
 
