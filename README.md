@@ -16,6 +16,7 @@
   <h3>📱 Mobil Geliştirme</h3>
   <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB"></img>&nbsp;
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"></img>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff"></img>
 
   <h3>🖥 Masaüstü Uygulamaları</h3>
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff"></img>&nbsp;
