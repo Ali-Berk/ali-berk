@@ -42,8 +42,8 @@
   <a href="https://github.com/Ali-Berk/MKU-Teknoloji-Dijital-Kostebek">
     <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Berk&repo=MKU-Teknoloji-Dijital-Kostebek&theme=vue-dark&hide_border=true">
   </a>
-  <a href="https://github.com/Ali-Berk/vue.js-edu-project">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Berk&repo=vue.js-edu-project&theme=vue-dark&hide_border=true">
+  <a href="https://github.com/Ali-Berk/ecommerce-project-vue-ci3">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Ali-Berk&repo=ecommerce-project-vue-ci3&theme=vue-dark&hide_border=true">
   </a>
 </div>
 
